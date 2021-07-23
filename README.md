@@ -14,7 +14,7 @@ Below is how you hyperlink in GitHub [Disability Vulnerability Dashboard
 
 
 ## Contents
-1. [analysis/](./analysis) This is how you reference a folder in your workflow
+1. [Data/](./data) This is how you reference a folder in your workflow
 
 
 ## Data sources
