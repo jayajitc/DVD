@@ -1,0 +1,44 @@
+# Deploying An Open, 3D-Printed IOT Platform For Low-cost, High-quality Weather Sensing
+
+## Introduction
+
+
+
+
+## Purpose
+This repository contains the paper and analyses describing the deployment of a 3D-PAWS (3D-Printed Automated Weather Station) [https://www.iepas.ucar.edu/core-programs/3dpaws/
+](https://www.iepas.ucar.edu/core-programs/3dpaws/)
+ during the 2018 IS-GEO Workshop [https://is-geo.org/2018-training-institute-hawaii/
+](https://is-geo.org/2018-training-institute-hawaii/) at the University of Hawaii, Hilo.  In total three (3) 3D-PAWS [2] were deployed into three (3) distinct ecosystems in Hawaii.  The first 4 months of observation data from the Mauna Loa station deployment was collected, archived and analyzed.
+
+## Contents
+1. [analysis/](./analysis) contains the Jupyter notebooks for the analysis of the data collected and documented inquiries.
+1. [data/](./data) contains the scripts required to work with the dataset for this paper.
+1. [paper/](./paper) contains the markdown source for the paper itself
+
+## Data sources
+Data for this project is found here: 
+
+[https://doi.org/10.6084/m9.figshare.7707518.v2](https://doi.org/10.6084/m9.figshare.7707518.v2)
+
+Citing this data source:
+
+> Maull, Keith; Ameko, Agbeli; Salas, Katalina; Humphries, Jonathan; Wagena, Moges; Easton, Zachary (2019): 3DPAWS Mauna Loa Dataset August 2018-January 1, 2019. figshare. Dataset. doi: 10.6084/m9.figshare.7707518.v2
+
+Real time continuous data for the Mauna Loa weather station is provided at the [CHORDS](http://ncar.github.io/chords/) portal hosted here: [http://is-geo.chordsrt.com/instruments/15](http://is-geo.chordsrt.com/instruments/15).
+
+
+
+## Authors
+Keith Maull (NCAR); Agbeli Ameko (UCAR); Katalina Salas (UTexas/El Paso); Jonathan Humphries (UHawaii/Manoa); Moges Wagena (Virginia Tech); Zachary Easton (Virginia Tech)
+
+## Acknowledgements
+We would like to thank the CHORDS project for hosting the data and the NCAR DASH team for their help in making the data more discoverable.
+
+
+## Primary Reference
+
+## Other References
+1. Daniels, M. D., Kerkez, B., Chandrasekar, V., Graves, S., Stamps, D. S., Martin, C., … Keiser, K. (2014). Cloud-Hosted Real-time Data Services for the Geosciences (CHORDS) software. UCAR/NCAR - Earth Observing Laboratory. https://doi.org/10.5065/d6v1236q 
+2. Kucera, Paul, and Martin Steinson. "Development of Innovative Technology to Provide Low-Cost Surface Atmospheric Observations in Data Sparse Regions." EGU General Assembly Conference Abstracts. Vol. 19. 2017.
+3. Smallwood, D., & Santarsiero, R. (2018). Evaluating 3D Printed Alternatives to Weather Monitoring. Major Qualifying Projects (All Years). Retrieved from https://digitalcommons.wpi.edu/mqp-all/6659 
