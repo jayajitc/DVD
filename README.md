@@ -49,7 +49,7 @@ Discuss the tools that allow access to various map layers. How to select or zoom
 Clicking on any county in the map will activate the county-specific COVID-19 information panels along the left and a pop-up display window. The COVID-19 information panels summarize…
 The pop-window contains relevant information on PwDs in the county, for each map layer. 
 
-![What is this](addlayer.png)
+<img align="left" width="100" height="100" src="http://www.fillmurray.com/100/100">
 
 [Disability Vulnerability Dashboard
 ](https://www.arcgis.com/apps/dashboards/8adb0362575a41d7981955bf3739de71)
