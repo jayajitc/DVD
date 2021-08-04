@@ -51,9 +51,13 @@ The pop-window contains relevant information on PwDs in the county, for each map
 
 
 
-![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+![Add Layer](addlayer.png)
 
-![Add Layer](https://jayajitc.github.com/images/addlayer.png)
+<br>
+
+<img src = "images/addlayer.png">
+
+<br>
 
 
 Click here to interact with our tool ==> [Disability Vulnerability Dashboard
