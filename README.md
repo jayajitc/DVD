@@ -51,13 +51,14 @@ The pop-window contains relevant information on PwDs in the county, for each map
 
 
 
-![Add Layer](addlayer.png)
+![Add Layer](countyselected.jpg)
 
 <br>
 
 <img src = "images/countyselected.jpg" width = 200>
 
 <br>
+
 
 
 Click here to interact with our tool ==> [Disability Vulnerability Dashboard
