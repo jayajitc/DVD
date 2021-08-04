@@ -50,7 +50,7 @@ Clicking on any county in the map will activate the county-specific COVID-19 inf
 The pop-window contains relevant information on PwDs in the county, for each map layer. 
 
 
-Disability Vulnerability Dashboard [Disability Vulnerability Dashboard
+[Disability Vulnerability Dashboard
 ](https://www.arcgis.com/apps/dashboards/8adb0362575a41d7981955bf3739de71)
 
 ## Contents
