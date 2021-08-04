@@ -55,7 +55,7 @@ The pop-window contains relevant information on PwDs in the county, for each map
 
 <br>
 
-<img src = "images/addlayer.png" width = 200>
+<img src = "images/countyselected.jpg" width = 200>
 
 <br>
 
