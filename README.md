@@ -1,5 +1,5 @@
-# Disability Vulnerability Dashboard
-**Jayajit Chakraborty and Katalina Salas, University of Texas at El Paso**
+# <p align="center"> Disability Vulnerability Dashboard </p>
+<p align="center"><B>Jayajit Chakraborty and Katalina Salas, University of Texas at El Paso</B></p>
  
 ## Introduction
 People with disabilities (PwDs) represent a vulnerable group that is significantly more likely to be injured or die than non-disabled individuals during the COVID-19 pandemic, as well as public health emergencies and various natural or human-induced disasters. Adverse impacts and health risks faced by PwDs during such events have been documented to be amplified because of their socioeconomic, demographic, and racial/ethnic minority status.
@@ -24,6 +24,7 @@ The DVD lists the percentages of people in each category, as well as their perce
 
 ***Social Vulnerability of PwDs:*** The second component includes multiple indicators of social vulnerability for PwDs in the county, based on variables from the 2019 ACS that are organized into three dimensions: economic status, demographic status, and racial/ethnic minority status. Each US county receives a separate percentile rank for each of these three dimensions, as well as an overall social vulnerability rank for PwDs that integrates these three dimensions, as summarized in the table below.
 
+ 
 | Variables  | Dimensions |
 | ------------- | ------------- |
 | % Below poverty PwDs | *Economic status* | 
@@ -33,16 +34,14 @@ The DVD lists the percentages of people in each category, as well as their perce
 | % PwDs 65 years or more | *Demographic status* |
 | % Female PwDs | *Demographic status* |
 | % Hispanic PwDs | *Minority status* |
-| % Non-Hispanic non-White PwDs | *Minority status* |
+| % Non-Hispanic non-White PwDs | *Minority status* | 
 
-
+ 
 The percentages of each variable listed in the table above are based on total civilian non-institutionalized population, with two exceptions. % Below poverty PwDs are based on the civilian non-institutionalized population for whom poverty status is determined and % Unemployed PwDs is based on civilian non-institutionalized population in the labor force (aged 18-64 years).
 
 ***Methodology:*** For each of the three dimensions of social vulnerability for PwDs, the percentiles for the variables comprising each dimension are summed. The summed percentiles for each dimension are then rank ordered to determine dimension-specific percentile rankings (i.e., economic, demographic, and minority status). Each county receives a separate percentile score for each dimension that ranges from 0 to 1, with higher values indicating higher percentages of socially vulnerable PwDs. Overall social vulnerability scores for PwDs in each county are estimated by summing the sums for each dimension, rank ordering the counties, and then calculating an overall percentile ranking. It should be noted that calculating the sum of the sums for each dimension is the same as summing individual variable rankings. 
 
 
-Below is how you hyperlink in GitHub [Disability Vulnerability Dashboard
-](https://www.arcgis.com/apps/dashboards/8adb0362575a41d7981955bf3739de71)
 
 ## Dashboard Navigation
 Discuss the tools that allow access to various map layers. How to select or zoom in on any county.
@@ -50,6 +49,9 @@ Discuss the tools that allow access to various map layers. How to select or zoom
 Clicking on any county in the map will activate the county-specific COVID-19 information panels along the left and a pop-up display window. The COVID-19 information panels summarize…
 The pop-window contains relevant information on PwDs in the county, for each map layer. 
 
+
+Disability Vulnerability Dashboard [Disability Vulnerability Dashboard
+](https://www.arcgis.com/apps/dashboards/8adb0362575a41d7981955bf3739de71)
 
 ## Contents
 1. [Data/](./Data) This is how you reference a folder in your workflow
