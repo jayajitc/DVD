@@ -49,12 +49,11 @@ Discuss the tools that allow access to various map layers. How to select or zoom
 Clicking on any county in the map will activate the county-specific COVID-19 information panels along the left and a pop-up display window. The COVID-19 information panels summarize…
 The pop-window contains relevant information on PwDs in the county, for each map layer. 
 
-![Screenshot](addlayer.png)
 
-src="https://github.com/jayajitc/DVD/blob/main/addlayer.PNG"
 
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
-![Add Layer](https://github.com/jayajitc/DVD/tree/main/images/addlayer.png)
+
+![Add Layer](https://jayajitc.github.com/images/addlayer.png)
 
 
 Click here to interact with our tool ==> [Disability Vulnerability Dashboard
