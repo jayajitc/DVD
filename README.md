@@ -10,12 +10,15 @@ The Disability Vulnerability Dashboard (DVD) is an interactive geospatial databa
 
 The DVD uses data from the 2019 US American Community Survey (ACS) five-year estimates to calculate and display disability-related indicators for each county. The ACS defines PwDs as members of the civilian non-institutionalized population who reported having serious hearing, vision, cognitive, ambulatory, self-care, and/or independent living difficulties. To enable mapping and analysis of relative vulnerability for PwDs, each US county is ranked with respect to all counties in the 50 US states and the District of Columbia. County rankings are based on percentile scores that can viewed and compared using this dashboard. 
 
-The current version of the DVD also includes graphs that depict monthly trends in COVID-19 cases, COVID-19 deaths, and Pandemic Vulnerability Index (PVI) scores for each US county. The PVI scores are based on the PVI model developed by the National Institute of Environmental Health Sciences (NIEHS), which integrates multiple variables into a county-level score based on 12 indicators that encompass four domains: infection rates, baseline population concentration, intervention measures, and existing health and environmental vulnerabilities. More information on the [COVID-19 PVI model and dashboard is available here: COVID-19 Pandemic Vulnerability Index Quick Start Guide (nih.gov)] (https://www.niehs.nih.gov/research/programs/coronavirus/covid19pvi/index.cfm) 
+The current version of the DVD also includes graphs that depict monthly trends in COVID-19 cases, COVID-19 deaths, and Pandemic Vulnerability Index (PVI) scores for each US county. The PVI scores are based on the PVI model developed by the National Institute of Environmental Health Sciences (NIEHS), which integrates multiple variables into a county-level score based on 12 indicators that encompass four domains: infection rates, baseline population concentration, intervention measures, and existing health and environmental vulnerabilities. More information on the COVID-19 PVI model and dashboard is available here: [COVID-19 Pandemic Vulnerability Index Quick Start Guide (nih.gov)](https://www.niehs.nih.gov/research/programs/coronavirus/covid19pvi/index.cfm)
+
+
+The DVD contains two major components or map layers that are described below.
 
 
 
 ## Key Components
-***Type of Disability:*** This component includes the percentage of people reporting each type of difficulty (hearing, vision, cognitive, ambulatory, self-care, and independent living), percentage of PwDs reporting multiple disabilities, and the overall percentage of PwDs in each US county. All percentage estimates are based on the total civilian non-institutionalized population in the county. The definition of each disability category or variable is provided in the table below. 
+***A. Type of Disability:*** This component includes the percentage of people reporting each type of difficulty (hearing, vision, cognitive, ambulatory, self-care, and independent living), percentage of PwDs reporting multiple disabilities, and the overall percentage of PwDs in each US county. All percentage estimates are based on the total civilian non-institutionalized population in the county. The definition of each disability category or variable is provided in the table below. 
 
 | Variables  | Definition |
 | ------------- | ------------- |
@@ -30,7 +33,7 @@ The current version of the DVD also includes graphs that depict monthly trends i
 
 The DVD lists the percentages of people in each category, as well as their percentile ranks based on comparison with all US counties. Percentile ranking values range from 0 to 1, with higher values indicating higher percentages of PwDs in the category.
 
-***Social Vulnerability of PwDs:*** The second component includes multiple indicators of social vulnerability for PwDs in the county, based on variables from the 2019 ACS that are organized into three dimensions: economic status, demographic status, and racial/ethnic minority status. Each US county receives a separate percentile rank for each of these three dimensions, as well as an overall social vulnerability rank for PwDs that integrates these three dimensions, as summarized in the table below.
+***B. Social Vulnerability of PwDs:*** The second component includes multiple indicators of social vulnerability for PwDs in the county, based on variables from the 2019 ACS that are organized into three dimensions: economic status, demographic status, and racial/ethnic minority status. Each US county receives a separate percentile rank for each of these three dimensions, as well as an overall social vulnerability rank for PwDs that integrates these three dimensions, as summarized in the table below.
 
  
 | Variables  | Dimensions |
