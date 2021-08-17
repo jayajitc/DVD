@@ -2,6 +2,12 @@
 <p align="center"><B>Jayajit Chakraborty and Katalina Salas, University of Texas at El Paso</B></p>
  
 ## Introduction
+
+[https://tinyurl.comSEGALabDVD](https://tinyurl.com/SEGALabDVD)
+
+(insert image)
+
+
 People with disabilities (PwDs) represent a vulnerable group that is significantly more likely to be injured or die than non-disabled individuals during the COVID-19 pandemic, as well as public health emergencies and various natural disasters. Adverse impacts and health risks faced by PwDs during such events have been documented to be amplified because of their socioeconomic, demographic, and racial/ethnic minority status.
 
 
@@ -56,17 +62,21 @@ The percentages of each variable listed in the table above are based on total ci
 
 ## Dashboard Navigation
 For the first map layer that focuses on PwD Type of Disability, counties are ranked (percentile rank: 0.0 to 1.0) and classified into five categories based on the percentage of civilian non-institutionalized population with any disability, as shown below in the map legend on the right.
+
 (insert image)
 
 
 We can select any county by using the Search tool or using Zoom tool in the toolbar to locate the county and clicking inside its boundary. Clicking on the selected county (e.g., El Paso County, Texas) on the map will activate the county-specific COVID-19 information panel on the left and a pop-up display window, as shown in the screenshot below. The COVID-19 information panel includes three graphs for the selected county that depict monthly data on the total number of COVID-19 cases, total number of COVID-19 deaths, and Pandemic Vulnerability Index (PVI) scores, respectively (from the first day of each month, starting from March 1, 2020). The pop-window for the Type of Disability layer shows the county percentages and percentile ranks of each type of disability, which allows comparison with all counties in the US. With an overall PwD rank of 0.33, El Paso County is almost in the bottom one-third (lowest 33%), in terms of the overall disability percentage.  
+
 (insert image)
 
 For this second map layer that focuses on PwD Social Vulnerability, counties are ranked and classified based on relative social vulnerability of PwDs. The county percentile score associated with the overall social vulnerability of PwDs (combination of economic, demographic, and minority status) is used to classify counties into five categories, as shown below in the map legend on the right.
+
 (insert image)
 
 
 If we click again on El Paso County, we can view the same information on monthly COVID-19 cases, deaths, and PVI scores on the left. But this pop-window shows a separate percentile rank for each of the 3 dimensions of social vulnerability for PwDs (economic, demographic, and minority status), as well as an overall percentile rank based on combining these three dimensions—useful for comparison with all counties nationally. The disability-specific variables used to derive these three indicators and the overall rank for social vulnerability can also be viewed in this pop-window. With an overall percentile rank of 0.77, El Paso County is in the top 25% nationally in terms of the presence of socially vulnerable PwDs.
+
 (insert image)
 
 
