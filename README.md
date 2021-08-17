@@ -1,5 +1,5 @@
 # <p align="center"> Disability Vulnerability Dashboard </p>
-##<p align="center"><B>Jayajit Chakraborty and Katalina Salas, University of Texas at El Paso</B></p>
+## <p align="center"><B>Jayajit Chakraborty and Katalina Salas, University of Texas at El Paso</B></p>
 <p align="center">https://tinyurl.comSEGALabDVD](https://tinyurl.com/SEGALabDVD)</p>
 
 (insert image)
