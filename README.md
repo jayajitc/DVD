@@ -68,7 +68,7 @@ The percentages of each variable listed in the table above are based on total ci
 
 When we open the dashboard, we see a choropleth map with a single layer (PwD Type of Disability) and three graphs on the left. This map layer was chosen as the first to be displayed to ensure easy navigation and visualization of disability characteristics, but a second map layer is available on this dashboard (PwD Social Vulnerability). We can toggle between these two map layers by clicking on the layer icon located in the middle toolbar to the right of the search tool.
 
-![Add Layer](https://github.com/jayajitc/DVD/blob/main/images/addlayer.PNG)
+![Add Layer]((https://user-images.githubusercontent.com/47607738/130483094-d8684b13-8958-405d-b915-a13d0f13c688.png)
 
 For the first map layer that focuses on PwD Type of Disability, counties are ranked (percentile rank: 0.0 to 1.0) and classified into five categories based on the percentage of civilian non-institutionalized population with any disability, as shown below in the map legend on the right.
 
