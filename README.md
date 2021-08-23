@@ -2,7 +2,7 @@
  
 <p align="center"> Jayajit Chakraborty and Katalina Salas, University of Texas at El Paso</p>
 
-[https://tinyurl.comSEGALabDVD](https://tinyurl.com/SEGALabDVD)
+[Visit out Dashboard](https://tinyurl.com/SEGALabDVD)
 
 (insert image)
 
