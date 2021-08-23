@@ -5,7 +5,7 @@
 [Visit our Dashboard](https://tinyurl.com/SEGALabDVD)
 
 
-![DVD](https://github.com/jayajitc/DVD/blob/main/images/DVDcomplete.PNG)
+![DVD](https://github.com/jayajitc/DVD/blob/main/images/DVD.JPG)
 
 
 
