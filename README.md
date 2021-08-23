@@ -89,7 +89,8 @@ If we click again on El Paso County, we can view the same information on monthly
 
 
 
-Read more on our [Blog](https://cybergisxhub.cigi.illinois.edu/blog/developing-a-disability-vulnerability-dashboard/)We are also planning to expand the database to include census tract level data layers on type of disability and social vulnerability of PwDs.
+Read more on our [Blog](https://cybergisxhub.cigi.illinois.edu/blog/developing-a-disability-vulnerability-dashboard/)
+We are also planning to expand the database to include census tract level data layers on type of disability and social vulnerability of PwDs.
 
 ## Contents
 1. [Data/](./Data) This folder contains the raw data files and their metadata. 
