@@ -87,8 +87,7 @@ If we click again on El Paso County, we can view the same information on monthly
 Read more on our [Blog](https://cybergisxhub.cigi.illinois.edu/blog/developing-a-disability-vulnerability-dashboard/)
 
 ## Contents
-1. [Data/](./Data) This is how you reference a folder in your workflow
-
+1. [Data/](./Data) This folder contains the raw data files and their metadata. 
 
 
 
