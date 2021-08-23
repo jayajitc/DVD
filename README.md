@@ -8,6 +8,8 @@
 
 
 
+Read more on our [Blog](https://cybergisxhub.cigi.illinois.edu/blog/developing-a-disability-vulnerability-dashboard/)
+
 ## Introduction
 People with disabilities (PwDs) represent a vulnerable group that is significantly more likely to be injured or die than non-disabled individuals during the COVID-19 pandemic, as well as public health emergencies and various natural disasters. Adverse impacts and health risks faced by PwDs during such events have been documented to be amplified because of their socioeconomic, demographic, and racial/ethnic minority status.
 
@@ -81,6 +83,8 @@ If we click again on El Paso County, we can view the same information on monthly
 (insert image)
 
 
+
+Read more on our [Blog](https://cybergisxhub.cigi.illinois.edu/blog/developing-a-disability-vulnerability-dashboard/)
 
 ## Contents
 1. [Data/](./Data) This is how you reference a folder in your workflow
