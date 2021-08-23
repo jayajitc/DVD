@@ -4,7 +4,7 @@
 
 [Visit out Dashboard](https://tinyurl.com/SEGALabDVD)
 
-[Image](images/DVD-zoom.PNG)
+images/DVD-zoom.PNG
 
 
 
