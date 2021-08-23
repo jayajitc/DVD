@@ -67,7 +67,7 @@ The percentages of each variable listed in the table above are based on total ci
 ## Dashboard Navigation
 
 When we open the dashboard, we see a choropleth map with a single layer (PwD Type of Disability) and three graphs on the left. This map layer was chosen as the first to be displayed to ensure easy navigation and visualization of disability characteristics, but a second map layer is available on this dashboard (PwD Social Vulnerability). We can toggle between these two map layers by clicking on the layer icon located in the middle toolbar to the right of the search tool.
-
+![Add Layer](https://github.com/jayajitc/DVD/blob/main/images/tools.JPG)
 ![Add Layer](https://github.com/jayajitc/DVD/blob/main/images/DVD1.JPG)
 
 For the first map layer that focuses on PwD Type of Disability, counties are ranked (percentile rank: 0.0 to 1.0) and classified into five categories based on the percentage of civilian non-institutionalized population with any disability, as shown below in the map legend on the right.
@@ -75,7 +75,7 @@ For the first map layer that focuses on PwD Type of Disability, counties are ran
 ![DVD2](https://github.com/jayajitc/DVD/blob/main/images/DVD2.JPG)
 
 We can select any county by using the Search tool or using Zoom tool in the toolbar to locate the county and clicking inside its boundary. Clicking on the selected county (e.g., El Paso County, Texas) on the map will activate the county-specific COVID-19 information panel on the left and a pop-up display window, as shown in the screenshot below. The COVID-19 information panel includes three graphs for the selected county that depict monthly data on the total number of COVID-19 cases, total number of COVID-19 deaths, and Pandemic Vulnerability Index (PVI) scores, respectively (from the first day of each month, starting from March 1, 2020). The pop-window for the Type of Disability layer shows the county percentages and percentile ranks of each type of disability, which allows comparison with all counties in the US. With an overall PwD rank of 0.33, El Paso County is almost in the bottom one-third (lowest 33%), in terms of the overall disability percentage.  
-
+![Add Layer](https://github.com/jayajitc/DVD/blob/main/images/zoom.JPG)
 ![DVD4](https://github.com/jayajitc/DVD/blob/main/images/DVD4.JPG)
 
 For this second map layer that focuses on PwD Social Vulnerability, counties are ranked and classified based on relative social vulnerability of PwDs. The county percentile score associated with the overall social vulnerability of PwDs (combination of economic, demographic, and minority status) is used to classify counties into five categories, as shown below in the map legend on the right.
@@ -89,7 +89,7 @@ If we click again on El Paso County, we can view the same information on monthly
 
 
 
-Read more on our [Blog](https://cybergisxhub.cigi.illinois.edu/blog/developing-a-disability-vulnerability-dashboard/)
+Read more on our [Blog](https://cybergisxhub.cigi.illinois.edu/blog/developing-a-disability-vulnerability-dashboard/)We are also planning to expand the database to include census tract level data layers on type of disability and social vulnerability of PwDs.
 
 ## Contents
 1. [Data/](./Data) This folder contains the raw data files and their metadata. 
