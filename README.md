@@ -23,7 +23,7 @@ The DVD uses data from the 2019 US American Community Survey (ACS) five-year est
 The current version of the DVD also includes graphs that depict monthly trends in COVID-19 cases, COVID-19 deaths, and Pandemic Vulnerability Index (PVI) scores for each US county. The PVI scores are based on the PVI model developed by the National Institute of Environmental Health Sciences (NIEHS), which integrates multiple variables into a county-level score based on 12 indicators that encompass four domains: infection rates, baseline population concentration, intervention measures, and existing health and environmental vulnerabilities. More information on the COVID-19 PVI model and dashboard is available here: [COVID-19 Pandemic Vulnerability Index Quick Start Guide (nih.gov)](https://www.niehs.nih.gov/research/programs/coronavirus/covid19pvi/index.cfm)
 
 
-The DVD contains two major components or map layers that are described below.
+<b>The DVD contains two major components or map layers that are described below.</b>
 
 
 
