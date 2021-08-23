@@ -9,7 +9,7 @@
 
 
 
-Read more on our [Blog](https://cybergisxhub.cigi.illinois.edu/blog/developing-a-disability-vulnerability-dashboard/)
+<p align="center"> Read more on our [Blog](https://cybergisxhub.cigi.illinois.edu/blog/developing-a-disability-vulnerability-dashboard/)</p>
 
 ## Introduction
 People with disabilities (PwDs) represent a vulnerable group that is significantly more likely to be injured or die than non-disabled individuals during the COVID-19 pandemic, as well as public health emergencies and various natural disasters. Adverse impacts and health risks faced by PwDs during such events have been documented to be amplified because of their socioeconomic, demographic, and racial/ethnic minority status.
